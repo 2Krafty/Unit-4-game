@@ -1,0 +1,58 @@
+
+body {
+	background-color: rgb(27, 26, 26)
+}
+div{
+	background-color: lightgrey;
+	margin: 10px;
+	width: 25%;
+	padding: 5px;
+	border: 25px;
+}
+
+h1,h3, span{
+	font-weight: bold;
+  text-align: center;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+	font-size: 30pt;
+}
+h2{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-weight: bold;
+}
+
+ol, ul{
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	text-indent: 20px;
+	
+}
+
+div.gems{
+	background-color: rgb(27, 26, 26);
+}
+
+div.header, div.instructions{
+	width: 50%;
+}
+
+.numberToMatch, .winsAndLosses{
+	float: left;
+	width: 15%;
+	height: 60px;
+}
+.userTotal {
+	width: 15%;
+	height: 60px;
+  float: left
+}
+
+.gemImage{
+	height: 60px;
+	margin: 10px;
+
+}	
+
+
+        
